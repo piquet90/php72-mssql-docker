@@ -3,6 +3,7 @@
 - Ubuntu 16.04 OS layer
 - Pre-configured PHP7.2 runtime
 - SQL Server command-line tools
+- Composer Package Manager
 
 # Further Reading
 
